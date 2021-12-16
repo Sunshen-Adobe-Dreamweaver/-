@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Portfolio</title>
+
+<!-- Bootstrap -->
+<link rel="stylesheet" href="css/bootstrap.css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+
+  <div class="container">
+    <hr>
+    <div class="row">
+      <div class="col-xs-6 col-lg-5"><img src="未标题-1.png" width="411" height="81" alt=""/></div>
+      <div class="col-xs-6 col-lg-7">
+        <label for="textfield3">首页 &nbsp; &nbsp; </label>
+        <label for="textfield2"><a href="注册页面beta.html">开放注册beta &nbsp; </a></label>
+        <label for="textfield"><a href="https://www.bilibili.com/video/BV1ci4y1j793?share_source=copy_web">观看宣传片 &nbsp; </a></label>
+        <label for="textfield6">登录成功 &nbsp; </label>
+        <a href="游戏公测.html">网页小游戏beta &nbsp; </a><a href="丧尸危机：孤岛行动.html">游戏公测beta</a></div>
+      <div class="col-xs-6 col-lg-7">
+        <p><strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;beta1.5</strong>&nbsp;</p>
+      </div>
+    </div>
+    <div class="row"> </div>
+    <hr>
+    <div class="row">
+      <div class="col-xs-7">
+        <div class="media">
+          <div class="media-left"> <a href="#">  </a><img src="1636187852729aed89ee70ab121d729a4aca7201a805d41a0.jpg" width="150" height="150" alt=""/> </div>
+          <div class="media-body">
+            <h2 class="media-heading">孙神的话</h2>
+            <p> 简介： 哔哩哔哩神兜兜的孙神，微博游戏区博主 希望大家可以关注我，我也会尽力粉丝破十万，商务合作:18917572386，新媒体运营人 </p>
+            <p>新浪微博：神兜兜的孙神，谢谢大家的关注一群：79467857，QQ2766427453 </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-5 well">
+        <div class="row">
+          <div class="col-lg-6">
+            <h4><span class="glyphicon glyphicon-phone" aria-hidden="true"></span> : 18917572386</h4>
+          </div>
+          <div class="col-lg-6">
+            <h4><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> :2766427453@qq.com</h4>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6">
+            <h4><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span><a href="https://space.bilibili.com/569314868?spm_id_from=333.1007.0.0"> :点击进入哔哩哔哩空间</a></h4>
+          </div>
+          <div class="col-lg-6">
+            <h4><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span> :<a href="https://weibo.com/suntainyu666?wvr=5&amp;sudaref=passport.weibo.com">点击进入微博空间 </a></h4>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-8 col-lg-7">
+        <h2>优质视频推送</h2>
+        <hr>
+        <div class="row">
+       	  <div class="col-xs-6">
+       	    <h4><a href="https://www.bilibili.com/video/BV1vL411773x?spm_id_from=333.999.0.0">视频1：</a></h4>
+       	  </div>
+        	<div class="col-xs-6">
+        	  <h4 class="text-right"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> 2021-10-21 20:46:41</h4>
+       	  </div>
+        </div>
+        <h4>【个人微电影】战争世界 </h4>
+        <video width="400" height="200" preload="none" controls="controls" >
+          <source src="1.mp4" type="video/mp4">
+        </video>
+        <p>&nbsp;  </p>
+<p>&nbsp; </p>
+        <div class="row">
+          <div class="col-xs-6">
+            <h4><a href="https://www.bilibili.com/video/BV1Pf4y1n7UX?share_source=copy_web">视频2：</a></h4>
+          </div>
+          <div class="col-xs-6">
+            <h4 class="text-right"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>2021-09-09 20:02:42</h4>
+          </div>
+        </div>
+        <h4>白月光遇上朱砂痣，你是否能知道 </h4>
+        <video width="400" height="200" controls="controls" >
+          <source src="436334743-1-209.mp4" type="video/mp4">
+        </video>
+        <p>&nbsp;</p>
+      </div>
+      <div class="col-sm-4 col-lg-5">
+        <h2>能力展示</h2>
+        <hr>
+        <!-- Green Progress Bar -->
+        <div class="progress">
+          <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%"> 创作力</div>
+        </div>
+        <!-- Blue Progress Bar -->
+        <div class="progress">
+          <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%"> 影响力</div>
+        </div>
+        <!-- Yellow Progress Bar -->
+        <div class="progress">
+          <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%">软件运用力 </div>
+        </div>
+        <!-- Red Progress Bar -->
+        <div class="progress">
+          <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%"> kol推广力</div>
+        </div>
+        <div class="progress">
+          <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 55%"> 账户运营力</div>
+        </div>
+        <div class="progress">
+          <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%"> 吸粉力</div>
+        </div>
+        <div class="progress">
+          <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%">获赞数 </div>
+        </div>
+</div>
+      <div class="col-sm-4 col-lg-5">网站公告栏： </div>
+      <div class="col-sm-4 col-lg-5">1.本网站处于公测阶段</div>
+    </div>
+    <hr>
+    <h2>大数据分析：</h2>
+    <hr>
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="row">
+          <div class="col-xs-5">
+            <h4>数据分析1：</h4>
+          </div>
+<div class="col-xs-5">
+  <h4 class="text-right"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>数据来源：<a href="http://wb.xiguaji.com/?chl=gzhgw">西瓜微数</a></h4>
+</div>
+        </div>
+        <ul>
+          <li><img src="}7FRS8C9GP2{SA0RQ1RSBS0.png" alt="" width="520" height="267" class="btn-group-lg"/>&nbsp;</li>
+        </ul>
+      </div>
+      <div class="col-lg-6">
+        <div class="row">
+          <div class="col-xs-5">
+            <h4>数据分析2：</h4>
+          </div>
+          <div class="col-xs-6">
+            <h4 class="text-right"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> 数据来源：<a href="https://www.hsydata.com/index?redirect=%2F">火烧云数据</a></h4>
+          </div>
+        </div>
+        <ul>
+          <li><img src="AOJ2H[N3(A`TY15KJE0B~6W.png" width="520" height="287" alt=""/>&nbsp;</li>
+        </ul>
+      </div>
+    </div>
+    <hr>
+    <h2>合作用户：</h2>
+    <hr>
+    <div class="container">
+    	<div class="row">
+    		<div class="col-lg-4 col-sm-6 col-xs-6">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="XA2]NWDT5V$3E3LBJ)KU%OQ.png" width="250" height="150">
+   		    <hr class="hidden-lg"></div>
+    		<div class="col-lg-4 col-sm-6 col-xs-6">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="5UPD]2S1U649}XWDS)QSOST.png" width="250" height="150">&nbsp; &nbsp;&nbsp;<hr class="hidden-lg"></div>
+    		<div class="col-lg-4 col-sm-6 col-xs-6">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="04_[Q%VD3KBD[QN4LO5[%X2.png" width="250" height="150">&nbsp; &nbsp; &nbsp;&nbsp;</div>
+    		<div class="col-lg-4 col-sm-6 col-xs-6 hidden-lg"><img src="images/300X200.gif" alt=""></div>
+    	</div>
+        <hr>
+</div>
+    <hr>
+    <h2>发送留言给孙神邮箱（2766427453@qq.com）</h2>
+    <hr>
+  </div>
+  <div class="container">
+  <div class="row">
+    <div class="col-lg-offset-3 col-xs-12 col-lg-6"> </div>
+    <div class="col-xs-12 col-lg-6"><a href="mailto:2766427453@qq.com">点击发送邮件</a>&nbsp;</div>
+<div class="col-xs-12 col-lg-6"><a href="https://qzone.qq.com/"> QQ</a></div>
+<div class="col-xs-12 col-lg-6"><a href="https://weibo.com/">新浪微博 </a></div>
+<div class="col-xs-12 col-lg-6"><a href="https://www.google.cn/">谷歌 </a></div>
+<div class="col-xs-12 col-lg-6">
+  <div>
+    <p><a href="壁纸下载专区.html">精美壁纸模型 </a></p>
+  </div>
+  <a href="开放平台.html">孙神开放平台 </a></div>
+<div class="col-xs-12 col-lg-6">
+  <audio controls="controls" autoplay="autoplay" loop="loop" >
+    <source src="音乐/稻香.mp3" type="audio/mp3">
+    <source src="音乐/稻香.mp3" type="audio/mp3">
+    <source src="音乐/稻香.mp3" type="audio/mp3">
+  </audio>
+  &nbsp;</div>
+  </div>
+</div>
+<hr>
+<footer class="text-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <p>Copyright © 孙神. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="js/jquery-1.11.3.min.js"></script> 
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script src="js/bootstrap.js"></script>
+</body>
+</html>

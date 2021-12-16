@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Portfolio</title>
+
+<!-- Bootstrap -->
+<link rel="stylesheet" href="css/bootstrap.css">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="container">
+  <div class="row">
+    <div class="col-lg-offset-3 col-xs-12 col-lg-6">
+      <div class="jumbotron">
+        <div class="row text-center">
+          <div class="text-center col-xs-12 col-sm-12 col-md-12 col-lg-12"> </div>
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">请选择你要玩的游戏 </div>
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">（玩家自制） </div>
+          <div class="text-center col-lg-12"> 
+            <!-- CONTACT FORM https://github.com/jonmbake/bootstrap3-contact-form -->
+            <form role="form" id="feedbackForm" class="text-center">
+<div class="form-group">
+                <label for="message2"><a href="游戏/坦克大战正式版.html">坦克大战正式版</a></label>
+              <span class="help-block" style="display: none;">Please enter a message.</span></div>
+              <div><a href="植物大战僵尸完整版/游戏开始.html"> 植物大战僵尸完整版</a></div>
+              <div><a href="游戏/打-飞机.html"> 雷电</a></div>
+<div><a href="游戏/超级玛丽.html">超级玛丽 </a></div>
+<div>
+  <div><a href="flash.html"> flash小游戏</a></div>
+</div>
+              <span class="help-block" style="display: none;">Please enter a the security code.</span>
+            </form>
+            <!-- END CONTACT FORM --> 
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-6"><a href="index.html"> 回到首页</a></div>
+    <div class="col-lg-6">
+    <audio controls="controls" autoplay="autoplay" loop="loop" >
+      <source src="音乐/小蓝背心 - 目及皆是你.mp3" type="audio/mp3">
+      <source src="音乐/小蓝背心 - 目及皆是你.mp3" type="audio/mp3">
+      <source src="音乐/小蓝背心 - 目及皆是你.mp3" type="audio/mp3">
+    </audio>
+    &nbsp;</div>
+  </div>
+</div>
+<hr>
+<footer class="text-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <p>Copyright © 孙神. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="js/jquery-1.11.3.min.js"></script> 
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script src="js/bootstrap.js"></script>
+</body>
+</html>
